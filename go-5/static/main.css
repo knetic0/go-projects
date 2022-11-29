@@ -1,0 +1,10 @@
+body {
+    font-size: 36px;
+    background-color: antiquewhite;
+    color: black;
+    text-align: center;
+}
+
+.done {
+    text-decoration: line-through;
+}
